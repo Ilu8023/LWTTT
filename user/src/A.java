@@ -22,7 +22,7 @@ public class A {
             System.out.println("我们在上晚自习");
         }
 
-        public void BubbleLibrary(){
+        public void bubbleLibrary(){
             System.out.println("我们在泡图书馆");
         }
 
@@ -30,8 +30,16 @@ public class A {
             System.out.println("我们在上晚自习");
         }
 
-        public void BroadcastGymnastics(){
+        public void broadcastGymnastics(){
             System.out.println("我们在做广播体操");
         }
+        
+        public void broadcastGymnastics(){
+            System.out.println("我们在做广播体操");
+        }
+        //行为
+        /**
+         * 巴拉巴拉
+         */
     }
 
