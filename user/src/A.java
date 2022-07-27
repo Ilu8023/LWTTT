@@ -34,8 +34,8 @@ public class A {
             System.out.println("我们在做广播体操");
         }
         
-        public void broadcastGymnastics(){
-            System.out.println("我们在做广播体操");
+        public void doHomework(){
+            System.out.println("我们在写作业");
         }
         //行为
         /**
